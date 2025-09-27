@@ -1,8 +1,8 @@
-# Tree First Search
+# syncs-hack-2025
+SYNCS Hack 2025
 
-This project was started for the University of Sydney SYNCS Hack 2025
+This is a project for SYNCS Hack 2025
 
-APIs used:
-* Google Maps
-* Transport NSW Trip Planner APIs
-* Transport NSW Realtime Vehicle Positions v2
+APIs (from NSW Transport Open Data):
+    Realtime Vehicle Positions v2 (for models, etc)
+    Trip Planner APIs
